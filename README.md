@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/edsteca">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Edward+Camelo;AI+Architect+%7C+ML+Engineer+%7C+Data+Scientist;Astrophysicist+%26+Educator+%F0%9F%94%AD;Turning+data+into+decisions+since+2000+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Edward+Camelo;AI+Architect+%7C+ML+Engineer+%7C+Data+Scientist;Astrophysicist+%26+Educator+%F0%9F%94%AD;Turning+data+into+decisions+since+2020+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -25,7 +25,7 @@
 - **AI Architect** with **3+ years** designing enterprise AI solutions.
 - **ML Engineer** with **4+ years** on **GCP, Azure, AWS and Dataiku**.
 - **Data Scientist** with **5+ years** across multiple industries.
-- Working with data since **2000** — over two decades turning numbers into decisions.
+- Working with data since **2020** — turning numbers into decisions.
 - Currently **Head of Data Science & AI** at the **Corebi NowVertical Center of Excellence**.
 - Astrophysicist by training, educator by vocation.
 
@@ -33,7 +33,7 @@
 - **AI Architect** con **3+ años** diseñando soluciones de IA empresariales.
 - **ML Engineer** con **4+ años** en **GCP, Azure, AWS y Dataiku**.
 - **Científico de Datos** con **5+ años** en distintas industrias.
-- Trabajando con datos desde el año **2000** — más de dos décadas convirtiendo números en decisiones.
+- Trabajando con datos desde el año **2020** — convirtiendo números en decisiones.
 - Actualmente **Líder de Ciencia de Datos e IA** en el **Centro de Excelencia de Corebi NowVertical**.
 - Astrofísico de formación, profesor por vocación.
 
