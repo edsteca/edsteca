@@ -73,6 +73,18 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
+**AI Agents & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Agent%20Development%20Kit-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20Enterprise-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20AgentCore-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot%20Studio-742774?style=for-the-badge&logo=microsoftcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>
+
 **Tools & BI**
 
 <p>
@@ -84,13 +96,30 @@
 
 ---
 
-## Certifications & Achievements / Certificaciones y Logros
+## Awards & Recognitions / Premios y Reconocimientos
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Innovation%20Award%202025-NowVertical-FFD700?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Partner%20of%20the%20Year%202025-Data%20%26%20Analytics%20LATAM-C0C0C0?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Partner%20of%20the%20Year%202024-Data%20%26%20Analytics%20LATAM-CD7F32?style=for-the-badge&labelColor=1F4E79"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Tech%20Lead-Machine%20Learning%20Specialization-4CAF50?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Tech%20Lead-Generative%20AI%20Specialization-9C27B0?style=for-the-badge&labelColor=1F4E79"/>
+</p>
+
+## Certifications / Certificaciones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E"/>
+</p>
+
+### Highlights / Destacados
+- **Innovation Award 2025** — NowVertical
+- **Partner of the Year — Data & Analytics LATAM 2024 & 2025** (Corebi NowVertical, two years in a row)
+- Technical lead for the **Machine Learning** and **Generative AI** Specializations at Corebi NowVertical
 - **AWS Certified Machine Learning – Specialty**
-- **Partner of the Year — Data & Analytics LATAM 2024** (Corebi NowVertical)
-- **Partner of the Year — Data & Analytics LATAM 2025** (Corebi NowVertical)
-- Technical lead for the **Machine Learning Specialization** at Corebi NowVertical
-- Technical lead for the **Generative AI Specialization** at Corebi NowVertical
 
 ---
 
@@ -105,9 +134,7 @@
   <img src="https://streak-stats.demolab.com/?user=edsteca&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edsteca&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+> _GitHub trophies will populate as I publish public repositories and contributions. / Los trofeos de GitHub se llenarán a medida que publique repos y contribuciones._
 
 ---
 
