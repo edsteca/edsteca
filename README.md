@@ -96,18 +96,14 @@
 
 ---
 
-## Awards & Recognitions / Premios y Reconocimientos
+## My Personal Awards / Mis Premios Personales
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Innovation%20Award%202025-NowVertical-FFD700?style=for-the-badge&labelColor=1F4E79"/>
-  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Partner%20of%20the%20Year%202025-Data%20%26%20Analytics%20LATAM-C0C0C0?style=for-the-badge&labelColor=1F4E79"/>
-  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Partner%20of%20the%20Year%202024-Data%20%26%20Analytics%20LATAM-CD7F32?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Innovation%20Award%202025-Awarded%20to%20Edward%20Camelo%20by%20NowVertical-FFD700?style=for-the-badge&labelColor=1F4E79"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Tech%20Lead-Machine%20Learning%20Specialization-4CAF50?style=for-the-badge&labelColor=1F4E79"/>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Tech%20Lead-Generative%20AI%20Specialization-9C27B0?style=for-the-badge&labelColor=1F4E79"/>
-</p>
+> **EN —** Personal recognition I received from **NowVertical** in 2025 for driving innovation across the Data Science & AI practice.
+> **ES —** Reconocimiento personal otorgado por **NowVertical** en 2025 por impulsar la innovación dentro de la práctica de Data Science e IA.
 
 ## Certifications / Certificaciones
 
@@ -115,11 +111,28 @@
   <img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E"/>
 </p>
 
-### Highlights / Destacados
-- **Innovation Award 2025** — NowVertical
-- **Partner of the Year — Data & Analytics LATAM 2024 & 2025** (Corebi NowVertical, two years in a row)
-- Technical lead for the **Machine Learning** and **Generative AI** Specializations at Corebi NowVertical
-- **AWS Certified Machine Learning – Specialty**
+---
+
+## Team & Company Achievements / Logros del Equipo y la Empresa
+
+> **EN —** As **Head of Data Science & AI** at the **Corebi NowVertical Center of Excellence**, I lead the team behind the following milestones. These belong to the company; my role has been to lead the technical practice that made them possible.
+>
+> **ES —** Como **Líder de Ciencia de Datos e IA** en el **Centro de Excelencia de Corebi NowVertical**, lidero el equipo detrás de los siguientes logros. Estos pertenecen a la empresa; mi rol ha sido liderar la práctica técnica que los hizo posibles.
+
+**Partner of the Year — Data & Analytics LATAM (two years in a row)**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Partner%20of%20the%20Year%202025-Data%20%26%20Analytics%20LATAM-C0C0C0?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Partner%20of%20the%20Year%202024-Data%20%26%20Analytics%20LATAM-CD7F32?style=for-the-badge&labelColor=1F4E79"/>
+</p>
+
+**NowVertical Service Specializations (Latin America) — earned with my technical leadership**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Machine%20Learning-Services%20%E2%80%94%20Latin%20America-4CAF50?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Data%20Analytics-Services%20%E2%80%94%20Latin%20America-2196F3?style=for-the-badge&labelColor=1F4E79"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Generative%20AI-Services%20%E2%80%94%20Latin%20America-9C27B0?style=for-the-badge&labelColor=1F4E79"/>
+</p>
 
 ---
 
